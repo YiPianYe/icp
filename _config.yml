@@ -1,7 +1,0 @@
-# Site settings
-title:          默认页面
-description:    "Minimal Jekyll theme for storytellers"
-# url:            "https://chirenduomeng.github.io"
-# baseurl:        "/tale"
-url:            "https://chirenduomeng.github.io"
-baseurl:        ""
