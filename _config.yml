@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: 痴人多梦
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
@@ -8,8 +8,8 @@ markdown: kramdown
 highlighter: rouge
 
 plugins: [jekyll-paginate]
-paginate: 20
-domain_name: 'http://yourblog-domain.com'
+paginate: 8
+domain_name: 'https://chirenduomeng.github.io/'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
