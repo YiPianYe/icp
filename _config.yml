@@ -40,3 +40,26 @@ defaults:
             type: drafts
         values:
             layout: post
+            
+ # !!!尝试添加           
+comments_provider: gitalk
+# !!!重要!!! 请修改下面这些信息为你自己申请的
+# !!!Important!!! Please modify infos below to yours
+# https://disqus.com
+# disqus:
+#     username: 
+# https://imsun.net/posts/gitment-introduction/
+# gitment:
+#     owner: mzlogin
+#     repo: blog-comments
+#     oauth:
+#        client_id: d2e1cbbd2989
+#         client_secret: b42a41
+# https://github.com/gitalk/gitalk#install
+gitalk:
+    gitalk:
+    owner: qinghongjiao
+    repo: gitalk
+    clientID: 7d4444b91100f1f08ca2
+    clientSecret: 25069b7f66d24c87615bff006848ee1b7345b50a
+  # !!!尝试添加    
