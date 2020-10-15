@@ -14,10 +14,11 @@ domain_name: 'https://chirenduomeng.github.io/'
 # disqus: false
 # disqus_shortname: 'your-disqus-shortname'
 
+# 后台已改为github地址
 # Details for the RSS feed generator
-# url:            'http://your-blog-url.example.com'
-# author:         'Your Name'
-# authorTwitter:  'YourTwitterUsername'
+ url:            'https://chirenduomeng.github.io'
+ author:         '痴人多梦'
+ authorTwitter:  'chirenduomeng' # 直接填写githubname
 
 permalink:       /:title.html
 
