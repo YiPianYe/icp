@@ -19,7 +19,7 @@ url:            'http://your-blog-url.example.com'
 author:         'Your Name'
 authorTwitter:  'YourTwitterUsername'
 
-permalink:       /:year/:title/
+permalink:       /:title.html
 
 defaults:
     -
