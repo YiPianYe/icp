@@ -43,3 +43,5 @@ defaults:
             layout: post
             
  # !!!尝试添加             
+
+theme: jekyll-theme-cayman
