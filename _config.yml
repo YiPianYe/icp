@@ -1,4 +1,4 @@
-name: 痴人多梦
+name: Your New Jekyll Site
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
@@ -8,16 +8,16 @@ markdown: kramdown
 highlighter: rouge
 
 plugins: [jekyll-paginate]
-paginate: 8
-domain_name: 'https://chirenduomeng.github.io/'
- google_analytics: 'UA-XXXXXXXX-X'
- disqus: false
- disqus_shortname: 'your-disqus-shortname'
+paginate: 6
+domain_name: 'http://yourblog-domain.com'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
- url:            'https://chirenduomeng.github.io'
- author:         '痴人多梦'
- authorTwitter:  'chirenduomeng'
+url:            'https://chirenduomeng.github.io'
+author:         'Your Name'
+authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:title.html
 
@@ -40,6 +40,3 @@ defaults:
             type: drafts
         values:
             layout: post
-                       
-
-theme: jekyll-theme-cayman
