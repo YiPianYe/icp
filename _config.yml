@@ -10,15 +10,14 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 8
 domain_name: 'https://chirenduomeng.github.io/'
-# google_analytics: 'UA-XXXXXXXX-X'
-# disqus: false
-# disqus_shortname: 'your-disqus-shortname'
+ google_analytics: 'UA-XXXXXXXX-X'
+ disqus: false
+ disqus_shortname: 'your-disqus-shortname'
 
-# 后台已改为github地址
 # Details for the RSS feed generator
  url:            'https://chirenduomeng.github.io'
  author:         '痴人多梦'
- authorTwitter:  'chirenduomeng' # 直接填写githubname
+ authorTwitter:  'chirenduomeng'
 
 permalink:       /:title.html
 
@@ -41,7 +40,6 @@ defaults:
             type: drafts
         values:
             layout: post
-            
- # !!!尝试添加             
+                       
 
 theme: jekyll-theme-cayman
