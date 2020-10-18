@@ -16,7 +16,13 @@ This is a static page. It could be an 'about page' if you'd like.
 
 5. [Ap](https://chirenduomeng.github.io/ap/) 来源[Ap](https://github.com/kssim/ap)
 
-6. [旷世的忧伤](https://github.com/chirenduomeng) 来源
+6. [Yamt](https://chirenduomeng.github.io/yamt/) 来源[Yamt](https://github.com/kssim/ap)
+
+7. [aNavigation](https://chirenduomeng.github.io/aNavigation/) 来源[aNavigation](https://github.com/Jackie1123/aNavigation)
+
+
+
+8. [旷世的忧伤](https://github.com/chirenduomeng) 来源
    [Maupasssnt①](https://github.com/alafighting/maupassant-jekyll/)
    [Maupasssnt①](https://github.com/imkarl/maupassant-jekyll)
 
