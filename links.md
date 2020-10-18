@@ -14,8 +14,11 @@ This is a static page. It could be an 'about page' if you'd like.
 
 4. [白菜JsOrg](https://baicai.js.org/) [Next](https://github.com/simpleyyt/jekyll-theme-next)
 
-5. [Ap](https://chirenduomeng.github.io/ap/) [Ap](https://github.com/chesterhow/tale)
+5. [Ap](https://chirenduomeng.github.io/ap/) [Ap](https://github.com/kssim/ap)
 
-6. [菜鸟教程](https://github.com/chirenduomeng) [原地址](https://github.com/chirenduomeng)
+6. [旷世的忧伤](https://github.com/chirenduomeng) 
+   [Maupasssnt①](https://github.com/alafighting/maupassant-jekyll/)
+   [Maupasssnt①](https://github.com/imkarl/maupassant-jekyll)
+
 
 {% include footer.html %}
