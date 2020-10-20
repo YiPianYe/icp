@@ -6,4 +6,6 @@ profile: true
 
 懒惰的人.
 
+😂😅🤣
+
 {% include footer.html %}
