@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: Your New Jekyll 
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
@@ -16,7 +16,7 @@ domain_name: 'https://hbw.me'
 
 # Details for the RSS feed generator
 url:            'https://hbw.me'
-author:         'Yourname'
+author:         '鸿博，HBw.Me'
 # authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:title.html
