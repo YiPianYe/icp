@@ -16,7 +16,9 @@ tags:
 
 到现在的亭亭玉立
 
-以及儿子进入幼儿园的独立
+**各种心酸，只有为人父母者才能体会**
+
+儿子进入幼儿园的独立
 
 为人父母
 
@@ -24,4 +26,3 @@ tags:
 
 一切向钱看！ ᥬ😂᭄ ᥬ😂᭄ ᥬ😂᭄
 <img src='https://cdn.jsdelivr.net/gh/ZiBaiCai/cdn/blog/202010201.jpg' height="50%" width="50%" />   
-<img src="https://cdn.jsdelivr.net/gh/ZiBaiCai/cdn/blog/202010201.jpg" width="50%">  
