@@ -8,7 +8,7 @@ markdown: kramdown
 highlighter: rouge
 
 plugins: [jekyll-paginate]
-paginate: 6
+paginate: 8
 domain_name: 'https://hbw.me'
 # google_analytics: 'UA-XXXXXXXX-X'
 # disqus: false
