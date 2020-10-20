@@ -9,15 +9,15 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 6
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+domain_name: 'https://hbw.me'
+# google_analytics: 'UA-XXXXXXXX-X'
+# disqus: false
+# disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'https://chirenduomeng.github.io'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'https://hbw.me'
+author:         'Yourname'
+# authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:title.html
 
