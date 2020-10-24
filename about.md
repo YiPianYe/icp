@@ -30,4 +30,26 @@ profile: true
 
 只要没死，就得使劲干。。。。
 
+<li id="comment-41" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-41" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/f77e23fade15a4df9c154af0ce163e09?s=90&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/f77e23fade15a4df9c154af0ce163e09?s=180&#038;d=mm&#038;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' />						<b class="fn"><a href='http://ejsoon.win' rel='external nofollow' class='url'>尹卂</a></b> <span class="says">說：</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://wangyikai.com/?page_id=365#comment-41">
+							<time datetime="2017-03-09T03:14:47+00:00">
+								三月 9, 2017 at 3:14 上午							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>閉關修煉，與君共勉</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+
 {% include footer.html %}
