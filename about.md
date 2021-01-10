@@ -30,6 +30,7 @@ profile: true
 
 只要没死，就得使劲干。。。。
 
+巷子里的猫没有归宿但有自由，围墙里的狗有归宿但没有自由！关于这句话我是这么理解的在拥有自由的同时也失去了定点的归宿，但如果有了固定的归宿后也失去了自由，对于怎么去抉择还是看个人的性格，有的人像“猫”有的人像“狗”！
 <li id="comment-41" class="comment odd alt thread-odd thread-alt depth-1">
 			<article id="div-comment-41" class="comment-body">
 				<footer class="comment-meta">
