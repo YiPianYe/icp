@@ -11,5 +11,9 @@
         <a href="{{ "/" | relative_url  }}links">links </a>
     {% endif %}
     
+     {% if page.url != "https://support.qq.com/products/309330" %}
+        <a href="{{ "/" | relative_url  }}links">GuestBook </a>
+    {% endif %}
+    
     <a class="cta" href="{{ "/" | relative_url  }}feed.xml">Subscribe</a>
 </nav>
