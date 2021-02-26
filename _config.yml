@@ -14,6 +14,14 @@ google_analytics: 'UA-180937563-1'
 # disqus: false
 # disqus_shortname: 'your-disqus-shortname'
 
+# https://github.com/gitalk/gitalk#install
+gitalk:
+    gitalk:
+    owner: qinghongjiao
+    repo: gitalk
+    clientID: 7d4444b91100f1f08ca2
+    clientSecret: 25069b7f66d24c87615bff006848ee1b7345b50a
+
 # Details for the RSS feed generator
 url:            'https://hbw.me'
 author:         '鸿博，HBw.Me'
