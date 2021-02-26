@@ -11,9 +11,18 @@ plugins: [jekyll-paginate]
 paginate: 8
 domain_name: 'https://hbw.me'
 google_analytics: 'UA-180937563-1'。
+
 # gitalk 
  disqus: false
  disqus_shortname: 'your-disqus-shortname'
+ # https://github.com/gitalk/gitalk#install
+gitalk:
+    gitalk:
+    owner: qinghongjiao
+    repo: hbwme-gitalk
+    clientID: 6c626877a33954d5b9d1
+    clientSecret: d19a3183486c87a019377c9abf561cbef5d73766
+    
 
 
 # Details for the RSS feed generator
