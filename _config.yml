@@ -1,6 +1,6 @@
-name: 鸿博"
-description: "生活，随笔，记录，旅游，音乐，电影，风景，心情？" 
-meta_description:  "鸿博, 博客，微博，MicroBlog，湖北，河北，HB"
+name: Your New Jekyll Site
+description: Blogging about stuffs
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 aboutPage: true
 
@@ -8,21 +8,18 @@ markdown: kramdown
 highlighter: rouge
 
 plugins: [jekyll-paginate]
-paginate: 8
-domain_name: "https://hbw.me"
-google_analytics: 'UA-180937563-1'。
-
-# gitalk 
- disqus: false
- disqus_shortname: 'your-disqus-shortname'
- # https://github.com/gitalk/gitalk#install
+paginate: 6
+domain_name: 'http://hbe.me'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'https://hbw.me'
-author:         '鸿博，HBw.Me'
-# authorTwitter:  'YourTwitterUsername'
+url:            'http://your-blog-url.example.com'
+author:         'Your Name'
+authorTwitter:  'YourTwitterUsername'
 
-permalink:       /:title.html
+permalink:       /:year/:title/
 
 defaults:
     -
