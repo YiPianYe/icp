@@ -1,5 +1,5 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
+name: HBW.Me
+description: 鸿博，Hbw.Me
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 aboutPage: true
@@ -15,11 +15,11 @@ disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
+url:            'https://icp.me'
+author:         'Hbw'
 authorTwitter:  'YourTwitterUsername'
 
-permalink:       /:year/:title/
+permalink:       /:title.html
 
 defaults:
     -
