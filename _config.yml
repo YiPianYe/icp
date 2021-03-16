@@ -15,7 +15,7 @@ disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'https://icp.me'
+url:            'https://icp.me/kactus'
 author:         'Hbw'
 authorTwitter:  'YourTwitterUsername'
 
