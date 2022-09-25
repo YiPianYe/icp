@@ -9,8 +9,8 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 10
-domain_name: 'http://hbw.Me'
-baseurl: # "/kactus"
+domain_name: 'https://icp.me'
+# baseurl:  "/kactus"
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
