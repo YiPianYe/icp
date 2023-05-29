@@ -9,7 +9,7 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 10
-domain_name: 'https://icp.me'
+# domain_name: 'https://icp.me'
 # baseurl:  "/kactus"
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
