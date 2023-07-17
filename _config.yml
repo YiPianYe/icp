@@ -10,13 +10,13 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 10
 domain_name: 'https://icp.me'
-baseurl:  "ypy"
+baseurl:  ""
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'https://icp.me/kactus'
+url:            'https://icp.me'
 author:         'Hbw'
 authorTwitter:  'YourTwitterUsername'
 
