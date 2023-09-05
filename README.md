@@ -8,7 +8,6 @@ https://github.com/nickbalestra/kactus
     <i>Click to view features</i>
   </summary>
   <p>
-
   - Dark / Light Theme Mode
   - Localized UI language
   - Pinned Posts on Home Page
@@ -26,6 +25,5 @@ https://github.com/nickbalestra/kactus
   - Atom Feeds
   - Google Analytics
   - SEO & Performance Optimization
-
   </p>
 </details>
