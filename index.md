@@ -7,3 +7,5 @@ profile: true
 # Home
 
  洗洗睡吧
+
+{% include footer.html %}
