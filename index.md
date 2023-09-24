@@ -5,3 +5,5 @@ profile: true
 ---
 
 # Home
+
+{% include footer.html %}
