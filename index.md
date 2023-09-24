@@ -6,4 +6,4 @@ profile: true
 
 # Home
 
-{% include footer.html %}
+ 洗洗睡吧
